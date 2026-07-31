@@ -1,0 +1,99 @@
+model_key,model,label,auroc,ap
+average_fusion,Average fusion,Atelectasis,0.9384931454071012,0.5906197257639768
+average_fusion,Average fusion,Cardiomegaly,0.9676213880744591,0.7139153756356205
+average_fusion,Average fusion,Consolidation,0.8781907739482143,0.13885904996151585
+average_fusion,Average fusion,Edema,0.9766444020418316,0.5439116995870422
+average_fusion,Average fusion,Enlarged Cardiomediastinum,0.9542173515860094,0.06949481949481949
+average_fusion,Average fusion,Fracture,0.9390236731593212,0.3157730460187591
+average_fusion,Average fusion,Lung Lesion,0.9221699122471998,0.6152890905746897
+average_fusion,Average fusion,Lung Opacity,0.9108348992794961,0.5143767490965353
+average_fusion,Average fusion,No Finding,0.8310945824600492,0.6533143330312113
+average_fusion,Average fusion,Pleural Effusion,0.940048804221162,0.5887279285929022
+average_fusion,Average fusion,Pleural Other,0.8750498160461156,0.16475217518502866
+average_fusion,Average fusion,Pneumonia,0.8869173193035159,0.2565793872484155
+average_fusion,Average fusion,Pneumothorax,0.9506453689357742,0.5273972245781413
+average_fusion,Average fusion,Support Devices,0.8188578435910451,0.3950366980451167
+bidirectional_cross_attention,Bidirectional cross-attention,Atelectasis,0.9935486722567671,0.9159639555887064
+bidirectional_cross_attention,Bidirectional cross-attention,Cardiomegaly,0.9918431919523835,0.8967503336672121
+bidirectional_cross_attention,Bidirectional cross-attention,Consolidation,0.8079790912403962,0.28310390901562216
+bidirectional_cross_attention,Bidirectional cross-attention,Edema,0.9980974440215894,0.8990386942444477
+bidirectional_cross_attention,Bidirectional cross-attention,Enlarged Cardiomediastinum,0.882608010353987,0.07406179771540848
+bidirectional_cross_attention,Bidirectional cross-attention,Fracture,0.994537791870698,0.7946936344085224
+bidirectional_cross_attention,Bidirectional cross-attention,Lung Lesion,0.9958842751777593,0.9816646702496348
+bidirectional_cross_attention,Bidirectional cross-attention,Lung Opacity,0.987034163393027,0.8835693904671752
+bidirectional_cross_attention,Bidirectional cross-attention,No Finding,0.959509290136127,0.9062211285562315
+bidirectional_cross_attention,Bidirectional cross-attention,Pleural Effusion,0.981044111057233,0.8986006886014214
+bidirectional_cross_attention,Bidirectional cross-attention,Pleural Other,0.9944668341863184,0.7293099647266313
+bidirectional_cross_attention,Bidirectional cross-attention,Pneumonia,0.9790280371259228,0.6100797241984366
+bidirectional_cross_attention,Bidirectional cross-attention,Pneumothorax,0.9580558421791358,0.8261281184583357
+bidirectional_cross_attention,Bidirectional cross-attention,Support Devices,0.9499826558670432,0.8092771846612598
+concat_fusion,Concatenation fusion,Atelectasis,0.950165671999358,0.6324152905800743
+concat_fusion,Concatenation fusion,Cardiomegaly,0.9611479583778344,0.7007355573342591
+concat_fusion,Concatenation fusion,Consolidation,0.8411177351806048,0.11021217977364818
+concat_fusion,Concatenation fusion,Edema,0.981210955634141,0.5885325132149509
+concat_fusion,Concatenation fusion,Enlarged Cardiomediastinum,0.9592933359529098,0.16709956709956708
+concat_fusion,Concatenation fusion,Fracture,0.9217675505413846,0.31711699006522603
+concat_fusion,Concatenation fusion,Lung Lesion,0.9422158646397923,0.689166148293176
+concat_fusion,Concatenation fusion,Lung Opacity,0.9133269500144579,0.5164937187627028
+concat_fusion,Concatenation fusion,No Finding,0.867892619300552,0.7307135905058111
+concat_fusion,Concatenation fusion,Pleural Effusion,0.9340861884785773,0.584811983559682
+concat_fusion,Concatenation fusion,Pleural Other,0.853015120014455,0.1639738070064368
+concat_fusion,Concatenation fusion,Pneumonia,0.8487012724994679,0.27325777899825865
+concat_fusion,Concatenation fusion,Pneumothorax,0.9498545019769428,0.6847778341161175
+concat_fusion,Concatenation fusion,Support Devices,0.8276927213834329,0.39530863970259705
+gated_fusion,Gated fusion,Atelectasis,0.9323686986297526,0.5777997139388525
+gated_fusion,Gated fusion,Cardiomegaly,0.95856009770855,0.6683716219028102
+gated_fusion,Gated fusion,Consolidation,0.8625932186555305,0.10453490545384524
+gated_fusion,Gated fusion,Edema,0.9730031645975225,0.5403543110944162
+gated_fusion,Gated fusion,Enlarged Cardiomediastinum,0.9708250222830497,0.09312448304383787
+gated_fusion,Gated fusion,Fracture,0.9185644881571949,0.2586512920512597
+gated_fusion,Gated fusion,Lung Lesion,0.9322275183179044,0.630640673897406
+gated_fusion,Gated fusion,Lung Opacity,0.9225785588833545,0.5402090660275601
+gated_fusion,Gated fusion,No Finding,0.8618367963631712,0.7310900778194048
+gated_fusion,Gated fusion,Pleural Effusion,0.9448052340985997,0.6185084167598544
+gated_fusion,Gated fusion,Pleural Other,0.8422370363513231,0.2109193273162532
+gated_fusion,Gated fusion,Pneumonia,0.8807365954175336,0.22377842323288943
+gated_fusion,Gated fusion,Pneumothorax,0.9489544069714256,0.6419504699879514
+gated_fusion,Gated fusion,Support Devices,0.8189061582539843,0.3747584708295231
+image_only,Image-only,Atelectasis,0.8579060478972016,0.41158971288975205
+image_only,Image-only,Cardiomegaly,0.9294533066257493,0.5476857836522148
+image_only,Image-only,Consolidation,0.8527712806633927,0.10139858530987562
+image_only,Image-only,Edema,0.9397372630104476,0.4007572373977876
+image_only,Image-only,Enlarged Cardiomediastinum,0.9780094326952001,0.11690348182283666
+image_only,Image-only,Fracture,0.7869084555394282,0.07578898420508716
+image_only,Image-only,Lung Lesion,0.7279911468999295,0.31504239702915854
+image_only,Image-only,Lung Opacity,0.7922576178799833,0.3359884335005477
+image_only,Image-only,No Finding,0.6829479635667915,0.3850209950888445
+image_only,Image-only,Pleural Effusion,0.8261161838657237,0.39201203567314713
+image_only,Image-only,Pleural Other,0.8316586115399253,0.15938296819981343
+image_only,Image-only,Pneumonia,0.7587962579225177,0.15051623643268322
+image_only,Image-only,Pneumothorax,0.7463611288306184,0.07961231926437619
+image_only,Image-only,Support Devices,0.6295519114540854,0.21427624623181754
+self_attention_fusion,Self-attention fusion,Atelectasis,0.9914905817870254,0.9070101813434496
+self_attention_fusion,Self-attention fusion,Cardiomegaly,0.9948154281685605,0.9375379677633736
+self_attention_fusion,Self-attention fusion,Consolidation,0.8584961159204694,0.34188528282005276
+self_attention_fusion,Self-attention fusion,Edema,0.997382754997,0.869145284844298
+self_attention_fusion,Self-attention fusion,Enlarged Cardiomediastinum,0.8068756111882553,0.03870942620942621
+self_attention_fusion,Self-attention fusion,Fracture,0.9963373981531735,0.915921404983905
+self_attention_fusion,Self-attention fusion,Lung Lesion,0.990789315753029,0.9362737209526787
+self_attention_fusion,Self-attention fusion,Lung Opacity,0.9736496421739244,0.7654307282490592
+self_attention_fusion,Self-attention fusion,No Finding,0.9035910964985736,0.7884869364294728
+self_attention_fusion,Self-attention fusion,Pleural Effusion,0.9816762710330645,0.8683824575749065
+self_attention_fusion,Self-attention fusion,Pleural Other,0.9890655942627227,0.7705746244158652
+self_attention_fusion,Self-attention fusion,Pneumonia,0.9672669404284818,0.6396673090415649
+self_attention_fusion,Self-attention fusion,Pneumothorax,0.9496300830487808,0.7714083856697256
+self_attention_fusion,Self-attention fusion,Support Devices,0.9350663154368687,0.7577967121967658
+text_only,Text-only,Atelectasis,0.9396989808659276,0.564147241924934
+text_only,Text-only,Cardiomegaly,0.9428697151503745,0.5732734551336681
+text_only,Text-only,Consolidation,0.8807248352570767,0.13730408162867866
+text_only,Text-only,Edema,0.9728780172499607,0.45037172432742656
+text_only,Text-only,Enlarged Cardiomediastinum,0.8994543289055832,0.04733552832144381
+text_only,Text-only,Fracture,0.9468524089547191,0.4463727581753767
+text_only,Text-only,Lung Lesion,0.9358768385866295,0.6164614296298985
+text_only,Text-only,Lung Opacity,0.9199023167440612,0.5181423543295994
+text_only,Text-only,No Finding,0.8551276223626094,0.7146341052968787
+text_only,Text-only,Pleural Effusion,0.9431472584397097,0.5582260146920116
+text_only,Text-only,Pleural Other,0.8615206290531995,0.08035539199318144
+text_only,Text-only,Pneumonia,0.9141291629134204,0.2519935404869021
+text_only,Text-only,Pneumothorax,0.9560186720340473,0.7436743312329835
+text_only,Text-only,Support Devices,0.8650349785626466,0.466927722844452

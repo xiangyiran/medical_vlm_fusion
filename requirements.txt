@@ -1,0 +1,13 @@
+kagglehub
+transformers
+scikit-learn
+pandas
+pillow
+tqdm
+accelerate
+matplotlib
+einops
+numpy
+torch
+notebook
+

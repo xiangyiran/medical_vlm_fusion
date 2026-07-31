@@ -1,0 +1,26 @@
+{
+  "dataset_name": "raddar/chest-xrays-indiana-university",
+  "text_mode": "findings_impression",
+  "only_frontal": true,
+  "uncertain_policy": "u_zero",
+  "num_samples": 3666,
+  "labels": [
+    "No Finding",
+    "Enlarged Cardiomediastinum",
+    "Cardiomegaly",
+    "Lung Lesion",
+    "Lung Opacity",
+    "Edema",
+    "Consolidation",
+    "Pneumonia",
+    "Atelectasis",
+    "Pneumothorax",
+    "Pleural Effusion",
+    "Pleural Other",
+    "Fracture",
+    "Support Devices"
+  ],
+  "raw_output_csv": "/content/drive/MyDrive/Dissertation/medical_vlm_fusion/artifacts/data/iu_xray_chexpert14/iu_xray_chexpert14_raw.csv",
+  "binary_output_csv": "/content/drive/MyDrive/Dissertation/medical_vlm_fusion/artifacts/data/iu_xray_chexpert14/iu_xray_chexpert14_binary_u_zero.csv",
+  "summary_output_csv": "/content/drive/MyDrive/Dissertation/medical_vlm_fusion/artifacts/data/iu_xray_chexpert14/iu_xray_chexpert14_label_summary.csv"
+}

@@ -1,0 +1,99 @@
+model_key,model,label,auroc,ap
+bicross_i2t_only,Image-to-text only,Atelectasis,0.9800693060771034,0.7917862902115992
+bicross_i2t_only,Image-to-text only,Cardiomegaly,0.9864792890420643,0.8509788213931212
+bicross_i2t_only,Image-to-text only,Consolidation,0.8658453231231554,0.2668391992507249
+bicross_i2t_only,Image-to-text only,Edema,0.996157576151098,0.8541955779333231
+bicross_i2t_only,Image-to-text only,Enlarged Cardiomediastinum,0.8800855580308333,0.07713353400913361
+bicross_i2t_only,Image-to-text only,Fracture,0.9730990942189152,0.7550814214505749
+bicross_i2t_only,Image-to-text only,Lung Lesion,0.9604110324577313,0.8204446362301363
+bicross_i2t_only,Image-to-text only,Lung Opacity,0.9577793126144746,0.7343630942908855
+bicross_i2t_only,Image-to-text only,No Finding,0.9107122834628196,0.8165536432111195
+bicross_i2t_only,Image-to-text only,Pleural Effusion,0.9633287172951377,0.7685927048281446
+bicross_i2t_only,Image-to-text only,Pleural Other,0.9456443179010622,0.5925456342601586
+bicross_i2t_only,Image-to-text only,Pneumonia,0.9551527838443069,0.5345566249791222
+bicross_i2t_only,Image-to-text only,Pneumothorax,0.9595345263260199,0.7568528139094736
+bicross_i2t_only,Image-to-text only,Support Devices,0.8983940667735135,0.6776986742148902
+bicross_no_cross_attention,No cross-attention,Atelectasis,0.9520063179153176,0.6499920904083885
+bicross_no_cross_attention,No cross-attention,Cardiomegaly,0.9692218649504456,0.7532843909231103
+bicross_no_cross_attention,No cross-attention,Consolidation,0.862017906644681,0.2747012773146642
+bicross_no_cross_attention,No cross-attention,Edema,0.986335420814053,0.6714620096676452
+bicross_no_cross_attention,No cross-attention,Enlarged Cardiomediastinum,0.9357054930076179,0.16108003503121732
+bicross_no_cross_attention,No cross-attention,Fracture,0.9374349943919297,0.45963730019625043
+bicross_no_cross_attention,No cross-attention,Lung Lesion,0.9432289514809673,0.6898907976544065
+bicross_no_cross_attention,No cross-attention,Lung Opacity,0.9403467282265985,0.586822368660825
+bicross_no_cross_attention,No cross-attention,No Finding,0.9037396369964564,0.8110458817402778
+bicross_no_cross_attention,No cross-attention,Pleural Effusion,0.9583813208930113,0.6910917740785334
+bicross_no_cross_attention,No cross-attention,Pleural Other,0.8470426957738099,0.16882294377185122
+bicross_no_cross_attention,No cross-attention,Pneumonia,0.882793879013717,0.31279214482640333
+bicross_no_cross_attention,No cross-attention,Pneumothorax,0.9675993340917053,0.8304428525621522
+bicross_no_cross_attention,No cross-attention,Support Devices,0.885505431839424,0.5677045235635404
+bicross_no_layer_norm,No layer normalization,Atelectasis,0.9937781026570076,0.9091156248411338
+bicross_no_layer_norm,No layer normalization,Cardiomegaly,0.9943650024525756,0.9234922978443149
+bicross_no_layer_norm,No layer normalization,Consolidation,0.8591212764813422,0.26692675386394976
+bicross_no_layer_norm,No layer normalization,Edema,0.998012903947672,0.9099142909559577
+bicross_no_layer_norm,No layer normalization,Enlarged Cardiomediastinum,0.8772595234368842,0.06218215797849538
+bicross_no_layer_norm,No layer normalization,Fracture,0.9968629070586096,0.9044638862820681
+bicross_no_layer_norm,No layer normalization,Lung Lesion,0.9927626025070061,0.9586406035499225
+bicross_no_layer_norm,No layer normalization,Lung Opacity,0.9816127480513134,0.8412084499662539
+bicross_no_layer_norm,No layer normalization,No Finding,0.9312010648894266,0.8481119770233668
+bicross_no_layer_norm,No layer normalization,Pleural Effusion,0.97783692942599,0.8700310787475543
+bicross_no_layer_norm,No layer normalization,Pleural Other,0.9860062568348438,0.684524215003667
+bicross_no_layer_norm,No layer normalization,Pneumonia,0.9771619540523453,0.629994241010274
+bicross_no_layer_norm,No layer normalization,Pneumothorax,0.9385422477883648,0.7129627494651655
+bicross_no_layer_norm,No layer normalization,Support Devices,0.9520451216548054,0.8289983036099106
+bicross_no_residual_update,No residual update,Atelectasis,0.995656805498629,0.9291170405522798
+bicross_no_residual_update,No residual update,Cardiomegaly,0.9941743172364234,0.9041235190001095
+bicross_no_residual_update,No residual update,Consolidation,0.8606374565365451,0.5905894120619865
+bicross_no_residual_update,No residual update,Edema,0.9980551189942842,0.9128900831877482
+bicross_no_residual_update,No residual update,Enlarged Cardiomediastinum,0.9608784017031686,0.06807957331213145
+bicross_no_residual_update,No residual update,Fracture,0.9979426731129379,0.8988530074443387
+bicross_no_residual_update,No residual update,Lung Lesion,0.996870679230944,0.9697150373260124
+bicross_no_residual_update,No residual update,Lung Opacity,0.99060025984303,0.915451199273901
+bicross_no_residual_update,No residual update,No Finding,0.9818387380275707,0.9555520075130262
+bicross_no_residual_update,No residual update,Pleural Effusion,0.9798967153773188,0.9101124458203674
+bicross_no_residual_update,No residual update,Pleural Other,0.9930462156520271,0.8272553426965191
+bicross_no_residual_update,No residual update,Pneumonia,0.9895294210397294,0.7062442912933108
+bicross_no_residual_update,No residual update,Pneumothorax,0.9577638736216346,0.8660342317009696
+bicross_no_residual_update,No residual update,Support Devices,0.9651627359977161,0.8531874495144639
+bicross_t2i_only,Text-to-image only,Atelectasis,0.9386776251621735,0.590811064478738
+bicross_t2i_only,Text-to-image only,Cardiomegaly,0.9675075103496865,0.7360271818133005
+bicross_t2i_only,Text-to-image only,Consolidation,0.858219615161726,0.1654321366847756
+bicross_t2i_only,Text-to-image only,Edema,0.985118989567335,0.6324531119632225
+bicross_t2i_only,Text-to-image only,Enlarged Cardiomediastinum,0.95300524248287,0.16764346764346763
+bicross_t2i_only,Text-to-image only,Fracture,0.9137505536395856,0.2701988016485664
+bicross_t2i_only,Text-to-image only,Lung Lesion,0.9058664337312076,0.613772661936334
+bicross_t2i_only,Text-to-image only,Lung Opacity,0.9148365361065317,0.5092003175299311
+bicross_t2i_only,Text-to-image only,No Finding,0.8670167622440168,0.7306272903261996
+bicross_t2i_only,Text-to-image only,Pleural Effusion,0.9406787756294195,0.6406423457449636
+bicross_t2i_only,Text-to-image only,Pleural Other,0.8586558076220775,0.14559847599877415
+bicross_t2i_only,Text-to-image only,Pneumonia,0.878750644557445,0.33841800127513194
+bicross_t2i_only,Text-to-image only,Pneumothorax,0.9522374437273796,0.6484461149546944
+bicross_t2i_only,Text-to-image only,Support Devices,0.8519775439390064,0.4116786088251075
+bicross_with_alignment_loss,Full bidirectional cross-attention + alignment loss,Atelectasis,0.9936224640415764,0.9062656943837756
+bicross_with_alignment_loss,Full bidirectional cross-attention + alignment loss,Cardiomegaly,0.9916236890173531,0.874183988044006
+bicross_with_alignment_loss,Full bidirectional cross-attention + alignment loss,Consolidation,0.8129102703695739,0.33311490214999223
+bicross_with_alignment_loss,Full bidirectional cross-attention + alignment loss,Edema,0.9985569782996301,0.9257062209758288
+bicross_with_alignment_loss,Full bidirectional cross-attention + alignment loss,Enlarged Cardiomediastinum,0.9011487286729292,0.04401154401154401
+bicross_with_alignment_loss,Full bidirectional cross-attention + alignment loss,Fracture,0.9954735062993012,0.8502376752468664
+bicross_with_alignment_loss,Full bidirectional cross-attention + alignment loss,Lung Lesion,0.9946882352909295,0.9796644235641915
+bicross_with_alignment_loss,Full bidirectional cross-attention + alignment loss,Lung Opacity,0.9864836301551841,0.8753410372404318
+bicross_with_alignment_loss,Full bidirectional cross-attention + alignment loss,No Finding,0.9627802927170146,0.9124952404866015
+bicross_with_alignment_loss,Full bidirectional cross-attention + alignment loss,Pleural Effusion,0.9827274088311245,0.9075288889079163
+bicross_with_alignment_loss,Full bidirectional cross-attention + alignment loss,Pleural Other,0.9949683833100155,0.7847319347319347
+bicross_with_alignment_loss,Full bidirectional cross-attention + alignment loss,Pneumonia,0.9819654361147124,0.6358640151812154
+bicross_with_alignment_loss,Full bidirectional cross-attention + alignment loss,Pneumothorax,0.9603891794365538,0.8229677629658152
+bicross_with_alignment_loss,Full bidirectional cross-attention + alignment loss,Support Devices,0.9456689102143647,0.8148835863480417
+bidirectional_cross_attention,Full bidirectional cross-attention,Atelectasis,0.9935486722567671,0.9159639555887064
+bidirectional_cross_attention,Full bidirectional cross-attention,Cardiomegaly,0.9918431919523835,0.8967503336672121
+bidirectional_cross_attention,Full bidirectional cross-attention,Consolidation,0.8079790912403962,0.28310390901562216
+bidirectional_cross_attention,Full bidirectional cross-attention,Edema,0.9980974440215894,0.8990386942444477
+bidirectional_cross_attention,Full bidirectional cross-attention,Enlarged Cardiomediastinum,0.882608010353987,0.07406179771540848
+bidirectional_cross_attention,Full bidirectional cross-attention,Fracture,0.994537791870698,0.7946936344085224
+bidirectional_cross_attention,Full bidirectional cross-attention,Lung Lesion,0.9958842751777593,0.9816646702496348
+bidirectional_cross_attention,Full bidirectional cross-attention,Lung Opacity,0.987034163393027,0.8835693904671752
+bidirectional_cross_attention,Full bidirectional cross-attention,No Finding,0.959509290136127,0.9062211285562315
+bidirectional_cross_attention,Full bidirectional cross-attention,Pleural Effusion,0.981044111057233,0.8986006886014214
+bidirectional_cross_attention,Full bidirectional cross-attention,Pleural Other,0.9944668341863184,0.7293099647266313
+bidirectional_cross_attention,Full bidirectional cross-attention,Pneumonia,0.9790280371259228,0.6100797241984366
+bidirectional_cross_attention,Full bidirectional cross-attention,Pneumothorax,0.9580558421791358,0.8261281184583357
+bidirectional_cross_attention,Full bidirectional cross-attention,Support Devices,0.9499826558670432,0.8092771846612598
