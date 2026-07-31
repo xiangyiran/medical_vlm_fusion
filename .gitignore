@@ -2,4 +2,3 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 # Experiment artifacts stay in the Google Drive project folder but are not paper source.
-artifacts/
